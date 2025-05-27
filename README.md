@@ -1,16 +1,17 @@
 # WiFi Signal Mapper
-> ### Mobile Computing Assignment-3
-> ### Kanishk Kumar Meena (2022233)
-> [GitHub Link](https://github.com/KanishkKumarMeena/MC_2022233_Assignment-3/tree/main/2022233_WiFi_Signal_Mapper)
 
 This Android app lets you scan and map WiFi signal strength across multiple locations. You can:
 - Select a predefined location
 - Perform a scan of 100 WiFi signal samples
 - View the results in a colored matrix, detailed list, and location comparison
 
+## App Screenshots
+| Home Screen | Search Screen | Tracker Screen | Statistics Screen |
+|-|-|-|-|
+| ![Home](/Screenshots/Home.png) | ![Home2](/Screenshots/Home2.png) |![Matrix](/Screenshots/Matrix.png)| ![Networks](/Screenshots/Networks.png)|
+![Scan](/Screenshots/Scan.gif) |
 
-
-## Assignment Implementation Details
+## Implementation Details
 
 1. **Creation of App Interface**
    - MainActivity hosts the Compose screens: `LocationSelectionScreen.kt`, `ScanningScreen.kt`, `ResultsScreen.kt`.
@@ -67,9 +68,3 @@ This Android app lets you scan and map WiFi signal strength across multiple loca
 ---
 
 For more detailed implementation and architecture, see `IMPLEMENTATION.md`. 
-
-## App Screenshots
-| Home Screen | Search Screen | Tracker Screen | Statistics Screen |
-|-|-|-|-|
-| ![Home](/2022233_WiFi_Signal_Mapper/Screenshots/Home.png) | ![Home2](/2022233_WiFi_Signal_Mapper/Screenshots/Home2.png) |![Matrix](/2022233_WiFi_Signal_Mapper/Screenshots/Matrix.png)| ![Networks](/2022233_WiFi_Signal_Mapper/Screenshots/Networks.png)|
-![Scan](/2022233_WiFi_Signal_Mapper/Screenshots/Scan.gif) |
