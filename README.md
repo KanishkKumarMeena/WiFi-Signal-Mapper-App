@@ -5,6 +5,8 @@ This Android app lets you scan and map WiFi signal strength across multiple loca
 - Perform a scan of 100 WiFi signal samples
 - View the results in a colored matrix, detailed list, and location comparison
 
+> [APK](https://github.com/KanishkKumarMeena/WiFi-Signal-Mapper-App/blob/96f4d74e90ae7ab5ff60ea0247ed51f85b270232/WiFi%20Signal%20Mapper.apk)
+
 ## App Screenshots
 | Home Screen | Search Screen | Tracker Screen | Statistics Screen |
 |-|-|-|-|
